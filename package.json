@@ -1,0 +1,7 @@
+{
+  "name": "json-server-mock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alfian Andi Nugraha <alfian.23andi@gmail.com>",
+  "license": "MIT"
+}
