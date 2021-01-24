@@ -11,3 +11,6 @@ Step to create fake db :
 1. Build your own scheme
 2. Generate random json with your scheme on json-generator (https://www.json-generator.com/)
 3. Copy all result to **root.json**
+
+## How About Authorization ?
+Because json-server running on express, you can easily add middleware. For authorization you don't need JWT, for example I create middleware to check if request header has Authorization header or not. You can learn more about middleware in https://expressjs.com/en/guide/using-middleware.html
