@@ -1,0 +1,411 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "id aliqua pariatur",
+      "description": "Sit aliquip veniam ut proident minim cillum aliqua elit fugiat esse. Duis laboris non dolore eu in magna. Ut laborum non incididunt dolore sit voluptate non laboris.",
+      "price": 35369.74,
+      "discount": 20
+    },
+    {
+      "id": 2,
+      "name": "tempor",
+      "description": "Elit pariatur irure cupidatat labore officia sit culpa ad incididunt sunt. Ea veniam laborum eu non do anim nulla mollit non exercitation enim. Ullamco deserunt occaecat excepteur voluptate cupidatat sunt.",
+      "price": 58690.38,
+      "discount": 14
+    },
+    {
+      "id": 3,
+      "name": "veniam consectetur veniam",
+      "description": "Ullamco anim incididunt cillum sunt aliquip. Quis ullamco occaecat irure duis consequat. Elit commodo duis dolor commodo officia ea dolore esse.",
+      "price": 61955.46,
+      "discount": 27
+    },
+    {
+      "id": 4,
+      "name": "proident",
+      "description": "Cillum esse aliquip id esse commodo sunt aute. Reprehenderit ut adipisicing elit mollit id ea dolor. Ut ut aliquip ullamco tempor occaecat.",
+      "price": 69227.21,
+      "discount": 15
+    },
+    {
+      "id": 5,
+      "name": "do aute culpa",
+      "description": "Lorem exercitation minim cillum adipisicing aliqua do ex occaecat ad duis cillum quis aute. Fugiat labore officia irure laborum consectetur aliqua. Sunt excepteur in eiusmod non amet sint pariatur. Sunt eiusmod occaecat sunt eiusmod velit laborum. Magna anim ut cupidatat ipsum eiusmod adipisicing id id consectetur cupidatat dolor eu tempor.",
+      "price": 91089.81,
+      "discount": 27
+    },
+    {
+      "id": 6,
+      "name": "in",
+      "description": "Cillum et ipsum aliqua in quis ad velit aliqua quis esse non nostrud. Lorem ipsum magna pariatur in exercitation. Aute id ut sunt ut aliquip exercitation occaecat ullamco exercitation tempor ipsum. Labore cupidatat aliqua duis dolore est ut. Veniam amet esse proident proident adipisicing commodo id incididunt minim.",
+      "price": 22775.34,
+      "discount": 30
+    },
+    {
+      "id": 7,
+      "name": "labore pariatur consequat",
+      "description": "Fugiat aliqua consequat laboris deserunt culpa Lorem reprehenderit ad. Eu incididunt Lorem deserunt culpa amet enim aute sunt exercitation pariatur in pariatur proident dolore. Sit nulla et amet exercitation esse irure nulla eiusmod incididunt. Excepteur cupidatat deserunt enim do laboris qui occaecat sint fugiat duis ipsum.",
+      "price": 89605.72,
+      "discount": 23
+    },
+    {
+      "id": 8,
+      "name": "cillum ex",
+      "description": "Labore Lorem sint dolor reprehenderit aute ex et minim do est nulla incididunt ea dolore. Culpa dolor pariatur aliquip laboris laborum aute culpa esse cupidatat.",
+      "price": 85257.97,
+      "discount": 15
+    },
+    {
+      "id": 9,
+      "name": "quis ad voluptate",
+      "description": "Deserunt minim velit voluptate est dolor ipsum occaecat sunt nulla excepteur fugiat et sint esse. Deserunt magna elit est amet. Consectetur incididunt minim eu anim dolor. Qui culpa occaecat esse non commodo eu. Et dolore do deserunt consequat.",
+      "price": 80725.6,
+      "discount": 17
+    },
+    {
+      "id": 10,
+      "name": "eiusmod",
+      "description": "Cupidatat cillum ullamco voluptate aute esse. Cupidatat officia sint laborum voluptate dolore excepteur ea laborum Lorem sunt irure irure.",
+      "price": 21682.08,
+      "discount": 11
+    },
+    {
+      "id": 11,
+      "name": "sit aliquip aliqua",
+      "description": "Duis mollit ex pariatur ea quis est nostrud.",
+      "price": 72416.79,
+      "discount": 24
+    },
+    {
+      "id": 12,
+      "name": "cillum non",
+      "description": "Fugiat occaecat mollit deserunt sit velit anim sint incididunt nostrud minim. Adipisicing eiusmod proident nulla eiusmod.",
+      "price": 62924.71,
+      "discount": 28
+    },
+    {
+      "id": 13,
+      "name": "duis",
+      "description": "Eiusmod non mollit dolor veniam adipisicing pariatur amet mollit do. Minim dolore minim non veniam est labore velit elit dolor nostrud commodo enim. Esse nulla adipisicing exercitation quis enim aute ipsum qui qui. Mollit amet commodo officia ad mollit sit sunt proident. Voluptate esse sit eiusmod proident veniam non.",
+      "price": 85455.12,
+      "discount": 24
+    },
+    {
+      "id": 14,
+      "name": "consectetur ad",
+      "description": "Velit labore id sit velit Lorem nostrud veniam aliquip non pariatur ea id.",
+      "price": 37234.47,
+      "discount": 16
+    },
+    {
+      "id": 15,
+      "name": "do ea",
+      "description": "Culpa aliqua nulla labore culpa ipsum adipisicing. Ex ea sint pariatur do excepteur ipsum anim eu velit duis adipisicing aute. Minim aliquip id irure consectetur aute sunt id mollit elit excepteur dolore et fugiat. Sit Lorem occaecat laboris magna nisi ut magna excepteur ex. Et proident et officia ea cupidatat ullamco magna labore et amet enim non duis.",
+      "price": 83210.36,
+      "discount": 24
+    },
+    {
+      "id": 16,
+      "name": "et occaecat deserunt",
+      "description": "Pariatur sint dolor labore deserunt pariatur amet. Lorem adipisicing aliqua sint cupidatat nulla pariatur duis aliqua cupidatat. Ex cupidatat ex incididunt nisi officia aute adipisicing cupidatat dolore ea non.",
+      "price": 76755.94,
+      "discount": 19
+    },
+    {
+      "id": 17,
+      "name": "duis culpa",
+      "description": "Velit nulla quis aliqua tempor magna dolor quis non irure consectetur. Mollit dolor aute esse nisi aute aliqua incididunt amet eiusmod consequat ullamco magna nulla.",
+      "price": 46427.3,
+      "discount": 13
+    },
+    {
+      "id": 18,
+      "name": "voluptate incididunt",
+      "description": "Voluptate proident voluptate velit sint aliqua sit velit proident. Officia deserunt ipsum fugiat magna pariatur.",
+      "price": 21208.31,
+      "discount": 30
+    },
+    {
+      "id": 19,
+      "name": "eu pariatur",
+      "description": "Elit elit exercitation officia ipsum nulla pariatur pariatur aliqua. Ut eiusmod dolor tempor est cillum fugiat culpa cillum officia. Minim qui aute ut in et culpa ut.",
+      "price": 20509.89,
+      "discount": 29
+    },
+    {
+      "id": 20,
+      "name": "commodo occaecat",
+      "description": "Non labore minim mollit in est Lorem consequat. Minim ipsum sunt quis occaecat. Nisi incididunt ad qui Lorem ad ullamco duis nisi fugiat aute labore enim ut occaecat. Dolore nisi labore cillum incididunt sint do deserunt ipsum. Irure et officia commodo exercitation tempor laborum dolore mollit voluptate.",
+      "price": 43874.48,
+      "discount": 21
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "title": "ad",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "title": "pariatur irure",
+      "isDone": true
+    },
+    {
+      "id": 3,
+      "title": "adipisicing ad labore",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "title": "proident",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "title": "sunt",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "title": "eu aliqua non laborum",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "title": "est consectetur excepteur",
+      "isDone": true
+    },
+    {
+      "id": 8,
+      "title": "est",
+      "isDone": true
+    },
+    {
+      "id": 9,
+      "title": "consequat culpa",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "title": "deserunt labore magna",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "title": "Lorem elit",
+      "isDone": true
+    },
+    {
+      "id": 12,
+      "title": "duis sit nulla",
+      "isDone": true
+    },
+    {
+      "id": 13,
+      "title": "adipisicing",
+      "isDone": true
+    },
+    {
+      "id": 14,
+      "title": "quis voluptate cillum et irure",
+      "isDone": false
+    },
+    {
+      "id": 15,
+      "title": "incididunt laboris anim",
+      "isDone": false
+    },
+    {
+      "id": 16,
+      "title": "irure tempor",
+      "isDone": true
+    },
+    {
+      "id": 17,
+      "title": "reprehenderit",
+      "isDone": true
+    },
+    {
+      "id": 18,
+      "title": "proident nisi",
+      "isDone": false
+    },
+    {
+      "id": 19,
+      "title": "et cillum commodo",
+      "isDone": true
+    },
+    {
+      "id": 20,
+      "title": "pariatur incididunt mollit in",
+      "isDone": true
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nichols Massey",
+      "phone": "(960) 470-3983",
+      "email": "nicholsmassey@cinaster.com",
+      "company": "Skinserve",
+      "age": 23
+    },
+    {
+      "id": 2,
+      "name": "Raquel Finley",
+      "phone": "(824) 422-3453",
+      "email": "raquelfinley@skinserve.com",
+      "company": "Liquicom",
+      "age": 30
+    },
+    {
+      "id": 3,
+      "name": "Shelton Clements",
+      "phone": "(900) 586-3401",
+      "email": "sheltonclements@liquicom.com",
+      "company": "Zaggle",
+      "age": 24
+    },
+    {
+      "id": 4,
+      "name": "Nielsen Figueroa",
+      "phone": "(825) 430-2339",
+      "email": "nielsenfigueroa@zaggle.com",
+      "company": "Artiq",
+      "age": 25
+    },
+    {
+      "id": 5,
+      "name": "Jenny Cox",
+      "phone": "(876) 554-3876",
+      "email": "jennycox@artiq.com",
+      "company": "Talkola",
+      "age": 29
+    },
+    {
+      "id": 6,
+      "name": "Burnett Horne",
+      "phone": "(833) 465-2577",
+      "email": "burnetthorne@talkola.com",
+      "company": "Zensor",
+      "age": 22
+    },
+    {
+      "id": 7,
+      "name": "Forbes Robinson",
+      "phone": "(837) 568-3109",
+      "email": "forbesrobinson@zensor.com",
+      "company": "Isosure",
+      "age": 29
+    },
+    {
+      "id": 8,
+      "name": "Greer Case",
+      "phone": "(976) 421-3458",
+      "email": "greercase@isosure.com",
+      "company": "Paragonia",
+      "age": 26
+    },
+    {
+      "id": 9,
+      "name": "Reid Boyer",
+      "phone": "(950) 429-2122",
+      "email": "reidboyer@paragonia.com",
+      "company": "Geekwagon",
+      "age": 30
+    },
+    {
+      "id": 10,
+      "name": "Macdonald Fuller",
+      "phone": "(864) 434-2907",
+      "email": "macdonaldfuller@geekwagon.com",
+      "company": "Ebidco",
+      "age": 30
+    },
+    {
+      "id": 11,
+      "name": "Norma Tillman",
+      "phone": "(999) 416-3424",
+      "email": "normatillman@ebidco.com",
+      "company": "Yurture",
+      "age": 25
+    },
+    {
+      "id": 12,
+      "name": "Schmidt Downs",
+      "phone": "(822) 577-2810",
+      "email": "schmidtdowns@yurture.com",
+      "company": "Bristo",
+      "age": 26
+    },
+    {
+      "id": 13,
+      "name": "Carey Mercer",
+      "phone": "(806) 593-3225",
+      "email": "careymercer@bristo.com",
+      "company": "Insuron",
+      "age": 24
+    },
+    {
+      "id": 14,
+      "name": "Robert Pickett",
+      "phone": "(858) 551-2685",
+      "email": "robertpickett@insuron.com",
+      "company": "Locazone",
+      "age": 20
+    },
+    {
+      "id": 15,
+      "name": "Sims Wiley",
+      "phone": "(985) 564-2662",
+      "email": "simswiley@locazone.com",
+      "company": "Nspire",
+      "age": 20
+    },
+    {
+      "id": 16,
+      "name": "Mullins Beach",
+      "phone": "(856) 437-2597",
+      "email": "mullinsbeach@nspire.com",
+      "company": "Realysis",
+      "age": 28
+    },
+    {
+      "id": 17,
+      "name": "Hood Ashley",
+      "phone": "(827) 448-3178",
+      "email": "hoodashley@realysis.com",
+      "company": "Kengen",
+      "age": 23
+    },
+    {
+      "id": 18,
+      "name": "Frank Manning",
+      "phone": "(809) 486-3743",
+      "email": "frankmanning@kengen.com",
+      "company": "Jasper",
+      "age": 24
+    },
+    {
+      "id": 19,
+      "name": "Carter Hood",
+      "phone": "(986) 508-2316",
+      "email": "carterhood@jasper.com",
+      "company": "Vitricomp",
+      "age": 24
+    },
+    {
+      "id": 20,
+      "name": "House Gilliam",
+      "phone": "(976) 484-2713",
+      "email": "housegilliam@vitricomp.com",
+      "company": "Quantalia",
+      "age": 27
+    }
+  ],
+  "": {
+    "message": "json-server was running, now visit /api/todos, /api/products, or /api/users"
+  }
+}
