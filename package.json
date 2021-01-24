@@ -12,5 +12,8 @@
   },
   "scripts": {
     "server": "nodemon ./server/app.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.22"
   }
 }
